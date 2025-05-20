@@ -1,13 +1,15 @@
-To Play Locally:
+A fun little Choose Your Own Quest/Adventure game set in ancient times
 
-You must have Python installed on computer
 
-Download ZIP and extract
 
-Inside "primal_tale_cyoq" file, you should see files Build, TemplateData, index
+To Play Locally, you must have Python installed on computer
 
-Right click in empty space, select "open in terminal"
+1. Download ZIP and extract
 
-enter the command "py -m http.server". This should run the game on port 8000
+2. Inside "primal_tale_cyoq" file, you should see files Build, TemplateData, index
 
-Open a browser tab and go to "localhost:8000"
+3. Right click in empty space, select "open in terminal"
+
+4. Enter the command "py -m http.server". This should run the game on port 8000
+
+5. Open a browser tab and go to "localhost:8000"
